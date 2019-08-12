@@ -1,0 +1,158 @@
+2019-08-12 19:09:25.764 +01:00 [INF] User profile is available. Using 'C:\Users\TJ\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2019-08-12 19:09:29.834 +01:00 [INF] [36m=== Webpack compilation mode: development ===[0m
+2019-08-12 19:09:30.303 +01:00 [INF] [36m=== Webpack compilation mode: development ===[0m
+2019-08-12 19:09:30.629 +01:00 [INF] Starting type checking service...
+2019-08-12 19:09:30.636 +01:00 [INF] Using 1 worker with 2048MB memory limit
+2019-08-12 19:09:30.798 +01:00 [INF] Starting type checking service...
+2019-08-12 19:09:30.874 +01:00 [INF] Using 1 worker with 2048MB memory limit
+2019-08-12 19:09:34.112 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/  
+2019-08-12 19:09:34.116 +01:00 [INF] Request starting HTTP/1.1 DEBUG http://localhost:64098/  0
+2019-08-12 19:09:34.273 +01:00 [INF] Request finished in 199.7315ms 200 
+2019-08-12 19:09:34.367 +01:00 [INF] Executing endpoint 'Tt.NetCoreReactTypeScript.Controllers.MainController.Index (Tt.NetCoreReactTypeScript)'
+2019-08-12 19:09:34.582 +01:00 [INF] Route matched with {action = "Index", controller = "Main"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Tt.NetCoreReactTypeScript.Controllers.MainController (Tt.NetCoreReactTypeScript).
+2019-08-12 19:09:34.991 +01:00 [INF] Executing action method Tt.NetCoreReactTypeScript.Controllers.MainController.Index (Tt.NetCoreReactTypeScript) - Validation state: "Valid"
+2019-08-12 19:09:35.029 +01:00 [INF] Executed action method Tt.NetCoreReactTypeScript.Controllers.MainController.Index (Tt.NetCoreReactTypeScript), returned result Microsoft.AspNetCore.Mvc.ViewResult in 5.9082ms.
+2019-08-12 19:09:35.352 +01:00 [INF] Executing ViewResult, running view Index.
+2019-08-12 19:09:42.822 +01:00 [INF] Node will restart because file changed: C:\Dev\Tt.NetCoreReactTypeScript\ClientApp\dist\main-server.js
+2019-08-12 19:09:42.832 +01:00 [INF] Type checking in progress...
+2019-08-12 19:09:44.710 +01:00 [INF] Type checking in progress...
+2019-08-12 19:09:44.986 +01:00 [INF] webpack built 9b9820ae93af6995d771 in 13968ms
+2019-08-12 19:09:44.991 +01:00 [INF] [34mi[39m [90m´¢ówdm´¢ú[39m: Hash: 9b9820ae93af6995d771
+Version: webpack 4.39.1
+Time: 13968ms
+Built at: 08/12/2019 7:09:44 PM
+             Asset      Size       Chunks                    Chunk Names
+    main-client.js  3.32 MiB  main-client  [emitted]  [big]  main-client
+main-client.js.map    30 KiB  main-client  [emitted]         main-client
+Entrypoint main-client [big] = main-client.js main-client.js.map
+2019-08-12 19:09:45.035 +01:00 [INF] [34mi[39m [90m´¢ówdm´¢ú[39m: Compiled successfully.
+2019-08-12 19:09:45.056 +01:00 [INF] No type errors found
+2019-08-12 19:09:45.076 +01:00 [INF] Version: typescript 3.5.3
+2019-08-12 19:09:45.099 +01:00 [INF] Time: 14381ms
+2019-08-12 19:09:45.862 +01:00 [INF] No type errors found
+2019-08-12 19:09:45.869 +01:00 [INF] Version: typescript 3.5.3
+2019-08-12 19:09:45.877 +01:00 [INF] Time: 15173ms
+2019-08-12 19:09:46.746 +01:00 [INF] Executed ViewResult - view Index executed in 11634.848600000001ms.
+2019-08-12 19:09:46.790 +01:00 [INF] Executed action Tt.NetCoreReactTypeScript.Controllers.MainController.Index (Tt.NetCoreReactTypeScript) in 12183.620700000001ms
+2019-08-12 19:09:46.831 +01:00 [INF] Executed endpoint 'Tt.NetCoreReactTypeScript.Controllers.MainController.Index (Tt.NetCoreReactTypeScript)'
+2019-08-12 19:09:46.945 +01:00 [INF] Request finished in 12849.212ms 200 text/html; charset=utf-8
+2019-08-12 19:09:46.972 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/vendor.css?v=f-quCl14D-DPeasviVSwrLusD7NUpgjDT84aVGn-XjY  
+2019-08-12 19:09:47.118 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.js?v=9MT2kfMVOFeUFvr3yo9UhupoAOWZNxS6vJos6g24VWY  
+2019-08-12 19:09:47.166 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/vendor.js?v=7QTfDhQxGqB9xoTRCGS1ATEZSF-EouRDsdvdaFqWUls  
+2019-08-12 19:09:47.519 +01:00 [INF] Sending file. Request path: '/dist/vendor.css'. Physical path: 'C:\Dev\Tt.NetCoreReactTypeScript\wwwroot\dist\vendor.css'
+2019-08-12 19:09:47.530 +01:00 [INF] Request finished in 569.5613ms 200 text/css
+2019-08-12 19:09:47.665 +01:00 [INF] Request finished in 528.916ms 200 application/javascript; charset=UTF-8
+2019-08-12 19:09:48.054 +01:00 [INF] Sending file. Request path: '/dist/vendor.js'. Physical path: 'C:\Dev\Tt.NetCoreReactTypeScript\wwwroot\dist\vendor.js'
+2019-08-12 19:09:48.067 +01:00 [INF] Request finished in 905.3639ms 200 application/javascript
+2019-08-12 19:09:49.559 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/__webpack_hmr  
+2019-08-12 19:10:14.415 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/api/Person/Search?term=  
+2019-08-12 19:10:14.443 +01:00 [INF] Executing endpoint 'Tt.NetCoreReactTypeScript.Controllers.PersonController.Search (Tt.NetCoreReactTypeScript)'
+2019-08-12 19:10:14.519 +01:00 [INF] Route matched with {action = "Search", controller = "Person"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Search(System.String) on controller Tt.NetCoreReactTypeScript.Controllers.PersonController (Tt.NetCoreReactTypeScript).
+2019-08-12 19:10:14.748 +01:00 [INF] Executing action method Tt.NetCoreReactTypeScript.Controllers.PersonController.Search (Tt.NetCoreReactTypeScript) - Validation state: "Valid"
+2019-08-12 19:10:14.835 +01:00 [INF] Executed action method Tt.NetCoreReactTypeScript.Controllers.PersonController.Search (Tt.NetCoreReactTypeScript), returned result Microsoft.AspNetCore.Mvc.JsonResult in 2.0538000000000003ms.
+2019-08-12 19:10:14.856 +01:00 [INF] Executing JsonResult, writing value of type 'Tt.NetCoreReactTypeScript.Infrastructure.Result`1[[System.Collections.Generic.List`1[[Tt.NetCoreReactTypeScript.Models.PersonModel, Tt.NetCoreReactTypeScript, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2019-08-12 19:10:14.915 +01:00 [INF] Executed action Tt.NetCoreReactTypeScript.Controllers.PersonController.Search (Tt.NetCoreReactTypeScript) in 345.9644ms
+2019-08-12 19:10:14.922 +01:00 [INF] Executed endpoint 'Tt.NetCoreReactTypeScript.Controllers.PersonController.Search (Tt.NetCoreReactTypeScript)'
+2019-08-12 19:10:14.930 +01:00 [INF] Request finished in 511.0986ms 200 application/json; charset=utf-8
+2019-08-12 19:10:21.614 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/api/Person/Search?term=ga  
+2019-08-12 19:10:21.648 +01:00 [INF] Executing endpoint 'Tt.NetCoreReactTypeScript.Controllers.PersonController.Search (Tt.NetCoreReactTypeScript)'
+2019-08-12 19:10:21.668 +01:00 [INF] Route matched with {action = "Search", controller = "Person"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Search(System.String) on controller Tt.NetCoreReactTypeScript.Controllers.PersonController (Tt.NetCoreReactTypeScript).
+2019-08-12 19:10:21.726 +01:00 [INF] Executing action method Tt.NetCoreReactTypeScript.Controllers.PersonController.Search (Tt.NetCoreReactTypeScript) - Validation state: "Valid"
+2019-08-12 19:10:21.734 +01:00 [INF] Executed action method Tt.NetCoreReactTypeScript.Controllers.PersonController.Search (Tt.NetCoreReactTypeScript), returned result Microsoft.AspNetCore.Mvc.JsonResult in 1.421ms.
+2019-08-12 19:10:21.739 +01:00 [INF] Executing JsonResult, writing value of type 'Tt.NetCoreReactTypeScript.Infrastructure.Result`1[[System.Collections.Generic.List`1[[Tt.NetCoreReactTypeScript.Models.PersonModel, Tt.NetCoreReactTypeScript, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2019-08-12 19:10:21.746 +01:00 [INF] Executed action Tt.NetCoreReactTypeScript.Controllers.PersonController.Search (Tt.NetCoreReactTypeScript) in 71.14370000000001ms
+2019-08-12 19:10:21.757 +01:00 [INF] Executed endpoint 'Tt.NetCoreReactTypeScript.Controllers.PersonController.Search (Tt.NetCoreReactTypeScript)'
+2019-08-12 19:10:21.764 +01:00 [INF] Request finished in 200.6119ms 200 application/json; charset=utf-8
+2019-08-12 19:10:22.338 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/api/Person/Search?term=gates  
+2019-08-12 19:10:22.349 +01:00 [INF] Executing endpoint 'Tt.NetCoreReactTypeScript.Controllers.PersonController.Search (Tt.NetCoreReactTypeScript)'
+2019-08-12 19:10:22.374 +01:00 [INF] Route matched with {action = "Search", controller = "Person"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Search(System.String) on controller Tt.NetCoreReactTypeScript.Controllers.PersonController (Tt.NetCoreReactTypeScript).
+2019-08-12 19:10:22.406 +01:00 [INF] Executing action method Tt.NetCoreReactTypeScript.Controllers.PersonController.Search (Tt.NetCoreReactTypeScript) - Validation state: "Valid"
+2019-08-12 19:10:22.442 +01:00 [INF] Executed action method Tt.NetCoreReactTypeScript.Controllers.PersonController.Search (Tt.NetCoreReactTypeScript), returned result Microsoft.AspNetCore.Mvc.JsonResult in 0.0752ms.
+2019-08-12 19:10:22.465 +01:00 [INF] Executing JsonResult, writing value of type 'Tt.NetCoreReactTypeScript.Infrastructure.Result`1[[System.Collections.Generic.List`1[[Tt.NetCoreReactTypeScript.Models.PersonModel, Tt.NetCoreReactTypeScript, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2019-08-12 19:10:22.483 +01:00 [INF] Executed action Tt.NetCoreReactTypeScript.Controllers.PersonController.Search (Tt.NetCoreReactTypeScript) in 91.4769ms
+2019-08-12 19:10:22.491 +01:00 [INF] Executed endpoint 'Tt.NetCoreReactTypeScript.Controllers.PersonController.Search (Tt.NetCoreReactTypeScript)'
+2019-08-12 19:10:22.496 +01:00 [INF] Request finished in 157.6248ms 200 application/json; charset=utf-8
+2019-08-12 19:10:25.411 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/api/Person/Search?term=  
+2019-08-12 19:10:25.439 +01:00 [INF] Executing endpoint 'Tt.NetCoreReactTypeScript.Controllers.PersonController.Search (Tt.NetCoreReactTypeScript)'
+2019-08-12 19:10:25.450 +01:00 [INF] Route matched with {action = "Search", controller = "Person"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Search(System.String) on controller Tt.NetCoreReactTypeScript.Controllers.PersonController (Tt.NetCoreReactTypeScript).
+2019-08-12 19:10:25.498 +01:00 [INF] Executing action method Tt.NetCoreReactTypeScript.Controllers.PersonController.Search (Tt.NetCoreReactTypeScript) - Validation state: "Valid"
+2019-08-12 19:10:25.502 +01:00 [INF] Executed action method Tt.NetCoreReactTypeScript.Controllers.PersonController.Search (Tt.NetCoreReactTypeScript), returned result Microsoft.AspNetCore.Mvc.JsonResult in 0.0847ms.
+2019-08-12 19:10:25.507 +01:00 [INF] Executing JsonResult, writing value of type 'Tt.NetCoreReactTypeScript.Infrastructure.Result`1[[System.Collections.Generic.List`1[[Tt.NetCoreReactTypeScript.Models.PersonModel, Tt.NetCoreReactTypeScript, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2019-08-12 19:10:25.511 +01:00 [INF] Executed action Tt.NetCoreReactTypeScript.Controllers.PersonController.Search (Tt.NetCoreReactTypeScript) in 56.766400000000004ms
+2019-08-12 19:10:25.522 +01:00 [INF] Executed endpoint 'Tt.NetCoreReactTypeScript.Controllers.PersonController.Search (Tt.NetCoreReactTypeScript)'
+2019-08-12 19:10:25.529 +01:00 [INF] Request finished in 139.4173ms 200 application/json; charset=utf-8
+2019-08-12 19:10:26.607 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/api/Person/Search?term=g  
+2019-08-12 19:10:26.681 +01:00 [INF] Executing endpoint 'Tt.NetCoreReactTypeScript.Controllers.PersonController.Search (Tt.NetCoreReactTypeScript)'
+2019-08-12 19:10:26.685 +01:00 [INF] Route matched with {action = "Search", controller = "Person"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Search(System.String) on controller Tt.NetCoreReactTypeScript.Controllers.PersonController (Tt.NetCoreReactTypeScript).
+2019-08-12 19:10:26.718 +01:00 [INF] Executing action method Tt.NetCoreReactTypeScript.Controllers.PersonController.Search (Tt.NetCoreReactTypeScript) - Validation state: "Valid"
+2019-08-12 19:10:26.721 +01:00 [INF] Executed action method Tt.NetCoreReactTypeScript.Controllers.PersonController.Search (Tt.NetCoreReactTypeScript), returned result Microsoft.AspNetCore.Mvc.JsonResult in 0.0224ms.
+2019-08-12 19:10:26.724 +01:00 [INF] Executing JsonResult, writing value of type 'Tt.NetCoreReactTypeScript.Infrastructure.Result`1[[System.Collections.Generic.List`1[[Tt.NetCoreReactTypeScript.Models.PersonModel, Tt.NetCoreReactTypeScript, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2019-08-12 19:10:26.729 +01:00 [INF] Executed action Tt.NetCoreReactTypeScript.Controllers.PersonController.Search (Tt.NetCoreReactTypeScript) in 40.063300000000005ms
+2019-08-12 19:10:26.731 +01:00 [INF] Executed endpoint 'Tt.NetCoreReactTypeScript.Controllers.PersonController.Search (Tt.NetCoreReactTypeScript)'
+2019-08-12 19:10:26.739 +01:00 [INF] Request finished in 133.6754ms 200 application/json; charset=utf-8
+2019-08-12 19:10:27.349 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/api/Person/Search?term=gate  
+2019-08-12 19:10:27.353 +01:00 [INF] Executing endpoint 'Tt.NetCoreReactTypeScript.Controllers.PersonController.Search (Tt.NetCoreReactTypeScript)'
+2019-08-12 19:10:27.358 +01:00 [INF] Route matched with {action = "Search", controller = "Person"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Search(System.String) on controller Tt.NetCoreReactTypeScript.Controllers.PersonController (Tt.NetCoreReactTypeScript).
+2019-08-12 19:10:27.427 +01:00 [INF] Executing action method Tt.NetCoreReactTypeScript.Controllers.PersonController.Search (Tt.NetCoreReactTypeScript) - Validation state: "Valid"
+2019-08-12 19:10:27.431 +01:00 [INF] Executed action method Tt.NetCoreReactTypeScript.Controllers.PersonController.Search (Tt.NetCoreReactTypeScript), returned result Microsoft.AspNetCore.Mvc.JsonResult in 0.0328ms.
+2019-08-12 19:10:27.435 +01:00 [INF] Executing JsonResult, writing value of type 'Tt.NetCoreReactTypeScript.Infrastructure.Result`1[[System.Collections.Generic.List`1[[Tt.NetCoreReactTypeScript.Models.PersonModel, Tt.NetCoreReactTypeScript, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2019-08-12 19:10:27.440 +01:00 [INF] Executed action Tt.NetCoreReactTypeScript.Controllers.PersonController.Search (Tt.NetCoreReactTypeScript) in 76.2983ms
+2019-08-12 19:10:27.444 +01:00 [INF] Executed endpoint 'Tt.NetCoreReactTypeScript.Controllers.PersonController.Search (Tt.NetCoreReactTypeScript)'
+2019-08-12 19:10:27.447 +01:00 [INF] Request finished in 98.6284ms 200 application/json; charset=utf-8
+2019-08-12 19:10:27.953 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/api/Person/Search?term=gates  
+2019-08-12 19:10:27.958 +01:00 [INF] Executing endpoint 'Tt.NetCoreReactTypeScript.Controllers.PersonController.Search (Tt.NetCoreReactTypeScript)'
+2019-08-12 19:10:27.964 +01:00 [INF] Route matched with {action = "Search", controller = "Person"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Search(System.String) on controller Tt.NetCoreReactTypeScript.Controllers.PersonController (Tt.NetCoreReactTypeScript).
+2019-08-12 19:10:27.996 +01:00 [INF] Executing action method Tt.NetCoreReactTypeScript.Controllers.PersonController.Search (Tt.NetCoreReactTypeScript) - Validation state: "Valid"
+2019-08-12 19:10:27.999 +01:00 [INF] Executed action method Tt.NetCoreReactTypeScript.Controllers.PersonController.Search (Tt.NetCoreReactTypeScript), returned result Microsoft.AspNetCore.Mvc.JsonResult in 0.0212ms.
+2019-08-12 19:10:28.002 +01:00 [INF] Executing JsonResult, writing value of type 'Tt.NetCoreReactTypeScript.Infrastructure.Result`1[[System.Collections.Generic.List`1[[Tt.NetCoreReactTypeScript.Models.PersonModel, Tt.NetCoreReactTypeScript, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2019-08-12 19:10:28.006 +01:00 [INF] Executed action Tt.NetCoreReactTypeScript.Controllers.PersonController.Search (Tt.NetCoreReactTypeScript) in 38.6522ms
+2019-08-12 19:10:28.009 +01:00 [INF] Executed endpoint 'Tt.NetCoreReactTypeScript.Controllers.PersonController.Search (Tt.NetCoreReactTypeScript)'
+2019-08-12 19:10:28.013 +01:00 [INF] Request finished in 105.4903ms 200 application/json; charset=utf-8
+2019-08-12 19:10:49.541 +01:00 [INF] User profile is available. Using 'C:\Users\TJ\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2019-08-12 19:10:52.040 +01:00 [INF] [36m=== Webpack compilation mode: development ===[0m
+2019-08-12 19:10:52.403 +01:00 [INF] [36m=== Webpack compilation mode: development ===[0m
+2019-08-12 19:10:52.736 +01:00 [INF] Starting type checking service...
+2019-08-12 19:10:52.736 +01:00 [INF] Using 1 worker with 2048MB memory limit
+2019-08-12 19:10:52.815 +01:00 [INF] Starting type checking service...
+2019-08-12 19:10:52.815 +01:00 [INF] Using 1 worker with 2048MB memory limit
+2019-08-12 19:10:53.529 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/  
+2019-08-12 19:10:53.680 +01:00 [INF] Executing endpoint 'Tt.NetCoreReactTypeScript.Controllers.MainController.Index (Tt.NetCoreReactTypeScript)'
+2019-08-12 19:10:53.700 +01:00 [INF] Route matched with {action = "Index", controller = "Main"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Tt.NetCoreReactTypeScript.Controllers.MainController (Tt.NetCoreReactTypeScript).
+2019-08-12 19:10:53.742 +01:00 [INF] Executing action method Tt.NetCoreReactTypeScript.Controllers.MainController.Index (Tt.NetCoreReactTypeScript) - Validation state: "Valid"
+2019-08-12 19:10:53.776 +01:00 [INF] Executed action method Tt.NetCoreReactTypeScript.Controllers.MainController.Index (Tt.NetCoreReactTypeScript), returned result Microsoft.AspNetCore.Mvc.ViewResult in 8.9654ms.
+2019-08-12 19:10:53.832 +01:00 [INF] Executing ViewResult, running view Index.
+2019-08-12 19:11:05.212 +01:00 [INF] Node will restart because file changed: C:\Dev\Tt.NetCoreReactTypeScript\ClientApp\dist\main-server.js
+2019-08-12 19:11:06.147 +01:00 [INF] Type checking in progress...
+2019-08-12 19:11:06.229 +01:00 [INF] webpack built 9b9820ae93af6995d771 in 13424ms
+2019-08-12 19:11:06.625 +01:00 [INF] [34mi[39m [90m´¢ówdm´¢ú[39m: Hash: 9b9820ae93af6995d771
+Version: webpack 4.39.1
+Time: 13424ms
+Built at: 08/12/2019 7:11:06 PM
+             Asset      Size       Chunks                    Chunk Names
+    main-client.js  3.32 MiB  main-client  [emitted]  [big]  main-client
+main-client.js.map    30 KiB  main-client  [emitted]         main-client
+Entrypoint main-client [big] = main-client.js main-client.js.map
+2019-08-12 19:11:06.625 +01:00 [INF] [34mi[39m [90m´¢ówdm´¢ú[39m: Compiled successfully.
+2019-08-12 19:11:06.628 +01:00 [INF] Type checking in progress...
+2019-08-12 19:11:06.696 +01:00 [INF] No type errors found
+2019-08-12 19:11:06.696 +01:00 [INF] Version: typescript 3.5.3
+2019-08-12 19:11:06.698 +01:00 [INF] Time: 13961ms
+2019-08-12 19:11:06.838 +01:00 [INF] No type errors found
+2019-08-12 19:11:06.855 +01:00 [INF] Version: typescript 3.5.3
+2019-08-12 19:11:06.855 +01:00 [INF] Time: 14028ms
+2019-08-12 19:11:07.575 +01:00 [INF] Executed ViewResult - view Index executed in 13774.5627ms.
+2019-08-12 19:11:07.619 +01:00 [INF] Executed action Tt.NetCoreReactTypeScript.Controllers.MainController.Index (Tt.NetCoreReactTypeScript) in 13919.1792ms
+2019-08-12 19:11:07.626 +01:00 [INF] Executed endpoint 'Tt.NetCoreReactTypeScript.Controllers.MainController.Index (Tt.NetCoreReactTypeScript)'
+2019-08-12 19:11:07.650 +01:00 [INF] Request finished in 14124.3969ms 200 text/html; charset=utf-8
+2019-08-12 19:11:07.745 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.js?v=9MT2kfMVOFeUFvr3yo9UhupoAOWZNxS6vJos6g24VWY  
+2019-08-12 19:11:07.804 +01:00 [INF] Request finished in 60.4824ms 200 application/javascript; charset=UTF-8
+2019-08-12 19:11:08.556 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/__webpack_hmr  
+2019-08-12 19:12:53.188 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/api/Person/Search?term=  
+2019-08-12 19:12:53.192 +01:00 [INF] Executing endpoint 'Tt.NetCoreReactTypeScript.Controllers.PersonController.Search (Tt.NetCoreReactTypeScript)'
+2019-08-12 19:12:53.225 +01:00 [INF] Route matched with {action = "Search", controller = "Person"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Search(System.String) on controller Tt.NetCoreReactTypeScript.Controllers.PersonController (Tt.NetCoreReactTypeScript).
+2019-08-12 19:12:53.254 +01:00 [INF] Executing action method Tt.NetCoreReactTypeScript.Controllers.PersonController.Search (Tt.NetCoreReactTypeScript) - Validation state: "Valid"
+2019-08-12 19:12:53.258 +01:00 [INF] Executed action method Tt.NetCoreReactTypeScript.Controllers.PersonController.Search (Tt.NetCoreReactTypeScript), returned result Microsoft.AspNetCore.Mvc.JsonResult in 3.9337ms.
+2019-08-12 19:12:53.285 +01:00 [INF] Executing JsonResult, writing value of type 'Tt.NetCoreReactTypeScript.Infrastructure.Result`1[[System.Collections.Generic.List`1[[Tt.NetCoreReactTypeScript.Models.PersonModel, Tt.NetCoreReactTypeScript, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2019-08-12 19:12:53.292 +01:00 [INF] Executed action Tt.NetCoreReactTypeScript.Controllers.PersonController.Search (Tt.NetCoreReactTypeScript) in 66.373100000000008ms
+2019-08-12 19:12:53.292 +01:00 [INF] Executed endpoint 'Tt.NetCoreReactTypeScript.Controllers.PersonController.Search (Tt.NetCoreReactTypeScript)'
+2019-08-12 19:12:53.292 +01:00 [INF] Request finished in 103.9268ms 200 application/json; charset=utf-8
